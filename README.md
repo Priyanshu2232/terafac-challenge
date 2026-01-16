@@ -2,7 +2,7 @@
 # CIFAR-10 Image Classification Challenge
 ## Multi-Level Solution Documentation
 
-**Candidate Name:** [Your Name]  
+**Candidate Name:** Priyanshu Chauhan  
 **Submission Date:** January 16, 2026  
 **Total Time Spent:** ~10 hours
 
@@ -65,7 +65,7 @@ pip install timm torch torchvision
 ## Level 1: Baseline Model
 
 ### Google Colab Notebook
-**Link:** [Insert your Level 1 Colab link here]
+**Link:** https://colab.research.google.com/drive/1xQTdfiwm5_ggskFNsl-ZcxeKCmGDVS_5?usp=sharing
 
 ### Approach Taken
 
@@ -142,7 +142,7 @@ For the baseline, I implemented transfer learning with ResNet50, a proven archit
 ## Level 2: Advanced Augmentation
 
 ### Google Colab Notebook
-**Link:** [Insert your Level 2 Colab link here]
+**Link:** https://colab.research.google.com/drive/1teYq4ToSA1kwpCmLBLyTag_c5XBKwnnI?usp=sharing
 
 ### Approach Taken
 
@@ -232,7 +232,7 @@ Level 2 focused on advanced data augmentation techniques to improve generalizati
 ## Level 3: Custom Architecture
 
 ### Google Colab Notebook
-**Link:** [Insert your Level 3 Colab link here]
+**Link:** https://colab.research.google.com/drive/1CyRO1m5omOKuYPc1siOxaLz5EeSKOZGc?usp=sharing
 
 ### Approach Taken
 
@@ -321,7 +321,7 @@ Level 3 required exploring different model architectures. I chose EfficientNet-B
 ## Level 4: Ensemble Learning
 
 ### Google Colab Notebook
-**Link:** [Insert your Level 4 Colab link here]
+**Link:** https://colab.research.google.com/drive/12sNwaeHoUzYyAEL00SGSMJ9pozJzXMHG?usp=sharing
 
 ### Approach Taken
 
