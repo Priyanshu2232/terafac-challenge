@@ -1,0 +1,40 @@
+
+LEVEL 2 SUMMARY
+======================================================================
+
+Model: ResNet50 (same as Level 1)
+New Techniques Added:
+  - RandAugment (2 ops, magnitude 9)
+  - Mixup (alpha=1.0)
+  - CutMix (alpha=1.0)
+  - Label Smoothing (0.1)
+  - Random Erasing
+  - Test-Time Augmentation (5x)
+
+Dataset: CIFAR-10 (80-10-10 split)
+
+RESULTS:
+  Level 1 baseline:       96.34%
+  Level 2 (standard):     96.56%
+  Level 2 (with TTA):     96.88%
+  Improvement:            +0.54%
+
+Best Val Accuracy:        92.70%
+Total Epochs:             25
+
+TARGET: 90%+
+STATUS: PASSED ✓
+
+Key Findings:
+- RandAugment provides good regularization
+- Mixup/CutMix reduce overfitting significantly
+- TTA consistently adds ~0.3-0.5%
+- Label smoothing helps with generalization
+
+Saved Files:
+- /content/drive/MyDrive/CIFAR10_Challenge/level2_best.pth
+- /content/drive/MyDrive/CIFAR10_Challenge/level2_curves.png
+- /content/drive/MyDrive/CIFAR10_Challenge/level2_per_class.png
+
+
+======================================================================
