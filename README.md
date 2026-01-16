@@ -3,10 +3,15 @@
 ## Multi-Level Solution Documentation
 
 **Candidate Name:** Priyanshu Chauhan
+
 **Branch:** IIOT
+
 **Roll no:** 00719071723
-**Submission Date:** January 16, 2026  
+
+**Submission Date:** January 16, 2026 
+
 **Total Time Spent:** ~10 hours
+
 **Institute Name:** University school of automation & robotics
 
 ---
